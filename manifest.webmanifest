@@ -1,0 +1,12 @@
+{
+  "name": "MotionCare AI — Musculoskeletal Rehabilitation",
+  "short_name": "MotionCare AI",
+  "description": "Trilingual educational prototype for musculoskeletal telerehabilitation",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f7f8",
+  "theme_color": "#0d766e",
+  "lang": "zh-CN",
+  "icons": []
+}

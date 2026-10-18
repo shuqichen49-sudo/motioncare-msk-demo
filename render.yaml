@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: motioncare-msk
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: .
